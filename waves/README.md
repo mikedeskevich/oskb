@@ -1,8 +1,8 @@
 # Waves Of Strength
 
-A while ago, some folks from the StrongFirst community published a few sample templates for an interesting wave-the-load style program.  These were originally designed around the barbell lifts, but I've successfully used them for kettlebell work, and even have modifications that work well for multiple lifts.
+A while ago, Craig Marker from the StrongFirst community published a few sample templates for an interesting wave-the-load style program.  These were originally designed around the barbell lifts, but I've successfully used them for kettlebell work, and even have modifications that work well for multiple lifts.
 
-I have two waves that I borrowed from other programs [insert ref when I find it], one is the "Short Wave" which is 12 workouts - 3 days a week for 4 weeks. The other is the "Long Wave" which is much more volume per day and a longer cycle 18 workouts - 3 days a week for 6 weeks.
+I have two waves that I borrowed from other programs, one is the "Short Wave"<sup>1</sup> which is 12 workouts - 3 days a week for 4 weeks. The other is the "Long Wave"<sup>2</sup> which is much more volume per day and a longer cycle 18 workouts - 3 days a week for 6 weeks.
 
 Both waves were originally written for a single barbell lift and you were to put in your own low-volume, low-intensity accessory work.  Or do some power-based kettlebell work on the off-days.  I've made a few additions that allow you to have multiple out-of-phase waves so that you can wave multiple movements.
 
@@ -11,6 +11,10 @@ The basic waves use weights that are 75%, 85%, and 90% of your 1RM.  Since the v
 When it's kettlebell work, I just call it "Light","Medium", and "Heavy".  Where the heavy bell is your 1RM for the movement, and then Medium is one bell size (4kg) less and light is another bell size down.  That seems to work the best.  If you're doing single arm bell movements, then count each arm separately.  
 
 For example, 3x75% of double kettlebell press would be 3 with your light bell. For single-arm press, it would be 3 of each arm sequentially with the light bell.  The single short wave and long wave are enough work for barbell exercises. I've found that a single wave is probably not enough with the kettlebell lifts, and you should pair or triple them up.
+
+<sup>1</sup>: https://breakingmuscle.com/fitness/waves-of-strength-soviet-style-periodization
+
+<sup>2</sup>: https://www.strongfirst.com/science-based-plan-prepare-sfg-level-sfg-level-ii/
 
 ## Short Wave
 
@@ -79,7 +83,7 @@ You'd follow this with a single movement of choice 3 days a week for 6 weeks.  O
 
 ## Multiple Waves
 
-The above waves are not my original work (when I find the reference, I'll credit the author). What I did (and had great success using for many people) is to set up multiple wave out of phase (so that the heavy days don't coincide, for example).  
+The above waves are not my original work. What I did (and had great success using for many people) is to set up multiple wave out of phase (so that the heavy days don't coincide, for example).  
 
 My method was to create a single intensity measure for each of the 12 (or 18) workouts.  And then offset the cycle, and compute the variance of the intensity for each day.  The offset with the lowest total variance across all possible offsets is the one I used for each of the multiple wave cycles.  (Yes, this is an O(N<sup>M</sup>) algorithm, but it's still quick here.  N is 12 of 18 and I don't use an M larger than 6.)
 
