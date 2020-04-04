@@ -5,3 +5,5 @@ I'm being purposely vague on this one. If you know me and how I'm related to FCF
 Included here is all of the workouts with the rants and commentary stripped out. 
 
 Enjoy!
+
+[](fcf.txt)
