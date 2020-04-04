@@ -16,3 +16,10 @@ My gym never got big enough for me to quit my day job, and since I decided to sh
 
 I don't have a ton of free time, so I'll start filling this out slowly.  I welcome comments on the programs! Try them out, give me feed back. Branch and make changes and modifications!  I hope turn this into a great repository of strength training knowledge. 
 
+## Attribution
+
+You're free to use these. I ask two things: 1) properly attribute this if you publish any of it, and 2) reply to me with results or modifications you made - I want the entire community to learn.
+
+## Contributing
+
+If you have any contributions, please submit pull requests (or email me).  I welcome everything!  Please send me markdown files, that makes my life the easiest.
