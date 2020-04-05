@@ -1,6 +1,16 @@
 # Kevin's 12-week ERG Program
 
-Kevin did an optional 2-day a week for 12 weeks ERG program in 2012 that was a bunch of fun.  I'm reproducing it here.
+Kevin did a 12 week ERG program in 2012 that was a bunch of fun.  I'm reproducing it here.
+
+## Percentages
+
+When we prescribe percentages, we mean percentage of effort.  Since rowing is based on fluid mechanics, the effort scales as the cube of your velocity.  (Energy is <sup>1</sup>>/<sub>2</sub>mv<sup>2</sup> plus another factor of v for the drag).  
+
+![fluidmechanics.jpeg](fluidmechanics.jpeg)
+
+Here's a quick chart to match your 100% 2k speed to percentage efforts:
+
+![rowingchart.png](rowingchart.png)
 
 ## Week 1
 
